@@ -8,3 +8,10 @@ Currently working across web development, backend architecture, system tools, op
 - 💻 Self-taught developer with a passion for building things that are **robust**, **scalable**, and **production-ready**
 - 🌐 Focused on modern websites, backend systems, and software that actually does something
 - ⚙️ Interested in low-level programming, memory management, performance, and control
+
+## 🚧 Current Mission
+
+Building modern web applications with clean frontend experiences and solid backend foundations, while diving deeper into systems programming, performance, and software that gives me unnecessary amounts of control 🚀
+
+Main side quest right now:
+> becoming dangerous in Rust 🤫
