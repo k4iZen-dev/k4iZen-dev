@@ -22,3 +22,18 @@ Building modern web applications with clean frontend experiences and solid backe
 
 Main side quest right now:
 > becoming dangerous in Rust 🤫
+
+## 😍 What I Love
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,arch,vim,git,github,vscode,figma" />
+
+## 🛠️ What I Use
+<img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,react,nextjs,mysql" />
+
+## 🧪 What I Worked With
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,vite,webpack,sqlite,postgres,firebase,laravel,express,vercel,netlify" />
+
+## 🧠 What I Know
+<img src="https://skillicons.dev/icons?i=cs,lua,python,java,go,prisma,mongodb,redis,electron,arduino" />
+
+## 📫 Contact
+[![Contact](https://img.shields.io/badge/Contact-Here-111111?style=for-the-badge&logo=github&logoColor=white)](https://k4izen-dev.github.io/personal-web/#contact)
