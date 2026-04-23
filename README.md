@@ -9,6 +9,13 @@ Currently working across web development, backend architecture, system tools, op
 - 🌐 Focused on modern websites, backend systems, and software that actually does something
 - ⚙️ Interested in low-level programming, memory management, performance, and control
 
+## 🔥 What I Focus On
+
+- 🌍 Full-stack websites
+- 🛠️ Backend systems
+- ⚡ Performance optimization
+- 📈 Scalable architecture
+
 ## 🚧 Current Mission
 
 Building modern web applications with clean frontend experiences and solid backend foundations, while diving deeper into systems programming, performance, and software that gives me unnecessary amounts of control 🚀
